@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Warhammer 40,000 UwUth Edition" indexUrl="https://github.com/TurquoiseTempest/Warhammer-40-000-UwUth-Edition/blob/8db37de17cb55480c2e2087fc91b938f05ab2d42/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Warhammer 40,000 UwUth Edition" indexUrl="https://raw.githubusercontent.com/TurquoiseTempest/Smell-my-finga//main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer 40,000.gstz" dataType="gamesystem" dataId="28ec-711c-d87f-3aeb" dataName="Warhammer 40,000 9th Edition" dataBattleScribeVersion="2.03" dataRevision="249"/>
     <dataIndexEntry filePath="Aeldari - Drukhari.catz" dataType="catalogue" dataId="e0a4-2172-4397-e39a" dataName="Aeldari - Drukhari" dataBattleScribeVersion="2.03" dataRevision="150"/>
     <dataIndexEntry filePath="Chaos - Gellerpox Infected.catz" dataType="catalogue" dataId="7fe3-1c65-72de-bc5d" dataName="Chaos - Gellerpox Infected" dataBattleScribeVersion="2.03" dataRevision="12"/>
-    <dataIndexEntry filePath="Aeldari - Black Library.catz" dataType="catalogue" dataId="6b86-f494-07bb-5b3b" dataName="Aeldari - Black Library" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Aeldari - Black Library.catz" dataType="catalogue" dataId="6b86-f494-07bb-5b3b" dataName="Aeldari - Black Library" dataBattleScribeVersion="2.03" dataRevision="122"/>
     <dataIndexEntry filePath="Chaos - Chaos Knights.catz" dataType="catalogue" dataId="5d84-5102-f22c-14d4" dataName="Chaos - Chaos Knights" dataBattleScribeVersion="2.03" dataRevision="87"/>
     <dataIndexEntry filePath="Leagues of Votann.catz" dataType="catalogue" dataId="787f-957c-4fe1-4648" dataName="Leagues of Votann" dataBattleScribeVersion="2.03" dataRevision="19"/>
     <dataIndexEntry filePath="Imperium - Imperial Navy.catz" dataType="catalogue" dataId="8245-63be-d7bd-d042" dataName="Imperium - Imperial Navy" dataBattleScribeVersion="2.03" dataRevision="8"/>
